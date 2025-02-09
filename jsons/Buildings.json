@@ -359,7 +359,7 @@
   "Destroyed when the city is captured", "[+3 Culture] from [Holy site] tiles [in all cities]", "Provides [1] [Konstantin bonus]",
   "Gain enough Faith for [10]% of a Great Prophet <upon constructing [Shrine]>","Gain enough Faith for [10]% of a Great Prophet <upon constructing [Temple]>"],
 },
-{
+/*{
 		"name": "Shrine",
 		"faith": 1,
 		"cost": 40,
@@ -375,7 +375,7 @@
 		"hurryCostModifier": 25,
 		"requiredTech": "Philosophy",
 		"uniques": ["Hidden when religion is disabled", "Destroyed when the city is captured", "Unsellable <with [Konstantin bonus]>"]
-	},
+	},*/
 {
   "name": "Unioning with Iron and Blood (Otto Von Bismarck)",
   "uniqueTo": "Germany",
