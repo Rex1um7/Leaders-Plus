@@ -172,9 +172,15 @@
   "cost": 1,
   "replacementTextForUniques": "[Great Engineers do not spend a life to construct a Manufactory. Great Engineer is earned 25% slower]
 [Workers can instantly build Fort. +1 [Production] from every Fort]",
-  "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "Destroyed when the city is captured", "Provides [1] [Churchill bonus]", "[Great Engineer] is earned [-25]% faster",
-  "[+1 Production] from [Fort] tiles [in all cities]"],
+  "uniques": [
+	  "Unsellable", 
+	  "Only available <without [Leader limit]>", 
+	  "Provides [1] [Leader limit]",
+  	"Destroyed when the city is captured", 
+	  "[Worker] units gain the [Churchill bonus] promotion", 
+	  "[Great Engineer] units gain the [Churchill bonus] promotion", 
+	  "[Great Engineer] is earned [-25]% faster",
+  	"[+1 Production] from [Fort] tiles [in all cities]"],
 },
 {
   "name": "Righteousness (Harun Al Rashid)",
