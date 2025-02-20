@@ -701,7 +701,6 @@
 [Inquisitors gives +5% to +25% strength to Military units within 4 to 0 tiles]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "Triggers the following global alert: [Spain's leader – Isabella]",
-  "Can remove other religions from cities <for [Inquisitor] units> <[1] additional time(s)> <after which this unit is consumed>",
   "[Inquisitor] units gain the [Spain bonus] promotion"],
 },
 {
