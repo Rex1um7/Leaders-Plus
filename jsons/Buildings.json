@@ -390,7 +390,7 @@
 [+20% Strength when fighting in Neutral Land]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured",
-  "Can spend Gold to annex or puppet a City-State that has been your ally for [7] turns.", "[+20]% Strength <when fighting in [Foreign Land] tiles>",
+  "Can spend Gold to annex or puppet a City-State that has been your Ally for [7] turns", "[+20]% Strength <when fighting in [Foreign Land] tiles>",
   "[-20]% Strength <when fighting in [Enemy Land] tiles>", "Triggers the following global alert: [Germany's leader – Otto Von Bismark]"],
 },
 {
@@ -701,7 +701,7 @@
 [Inquisitors gives +5% to +25% strength to Military units within 4 to 0 tiles]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "Triggers the following global alert: [Spain's leader – Isabella]",
-  "[Inquisitor] units built [in all cities] can [Remove Foreign religions from your own cities] [1] extra times",
+  "Can remove other religions from cities <for [Inquisitor] units> <[1] additional time(s)> <after which this unit is consumed>",
   "[Inquisitor] units gain the [Spain bonus] promotion"],
 },
 {
@@ -735,7 +735,8 @@
   "replacementTextForUniques": "[Can construct second capital, to which all bonuses \"in capital\" will be applied and +1 [Production], [Science], [Culture], [Food], [Gold] in capitals per every era expect Ancient era]
 [-50% tile improvement construction time in all tiles with neighboring City center]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "Destroyed when the city is captured", "Provides [1] [Dido bonus]", "[-50]% tile improvement construction time <in [Land] tiles> <with [1] to [6] neighboring [City center] tiles>",
+  "Destroyed when the city is captured", "Provides [1] [Dido bonus]", 
+  "[-50]% construction time for [all] improvements <with [1] to [6] neighboring [City center] tiles>",
   "[+1 Culture, +1 Food, +1 Science, +1 Gold, +1 Production] [in capital] <starting from the [Classical era]>","[+1 Culture, +1 Food, +1 Science, +1 Gold, +1 Production] [in capital] <starting from the [Medieval era]>",
   "[+1 Culture, +1 Food, +1 Science, +1 Gold, +1 Production] [in capital] <starting from the [Renaissance era]>","[+1 Culture, +1 Food, +1 Science, +1 Gold, +1 Production] [in capital] <starting from the [Industrial era]>",
   "[+1 Culture, +1 Food, +1 Science, +1 Gold, +1 Production] [in capital] <starting from the [Atomic era]>","[+1 Culture, +1 Food, +1 Science, +1 Gold, +1 Production] [in capital] <starting from the [Information era]>"],
@@ -796,7 +797,9 @@
   "replacementTextForUniques": "[Workers can construct Chinese Wall (replaces Fort, +10% additionaly defensive bonus, Adjacent enemy units ending their turn take 12 damage)]
 [[-25]% tile improvement construction time]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "Destroyed when the city is captured", "Provides [1] [China bonus]", "[-25]% tile improvement construction time"],
+  "Destroyed when the city is captured", "Provides [1] [China bonus]", 
+	  "[-25]% construction time for [All] improvements"
+  ],
 },
 // {
 //  "name": "Lijia (Yongle)",
@@ -954,9 +957,12 @@
   "cost": 1,
   "replacementTextForUniques": "[Military Land units gains +50% Strength in Water tiles and may attack when embarked]
 [+1 [Happiness] in all cities on foreign continents]",
-  "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "Destroyed when the city is captured", "[Military] units gain the [Polynesia bonus]", "[+1 Happiness] [in all cities] <on foreign continents>", 
-  "[+1 Happiness] [in all cities] <on foreign continents> <starting from the [Medieval era]>", "[+50]% Strength <for [{Military} {Land}] units> <in [Water] tiles>"],
+  "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]","Destroyed when the city is captured", 
+	  "[Military] units gain the [Polynesia bonus] promotion", 
+	  "[+1 Happiness] [in all cities] <on foreign continents>", 
+  	"[+1 Happiness] [in all cities] <on foreign continents> <starting from the [Medieval era]>", 
+	  "[+50]% Strength <for [{Military} {Land}] units> <in [Water] tiles>"
+  ],
 },
 {
   "name": "Kupe's Voyage (Kupe)",
