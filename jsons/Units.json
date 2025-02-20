@@ -74,7 +74,9 @@
         "[All] units gain the [Heal Instantly] promotion <[1] times>",
         "[+15]% Strength bonus for [Military] units within [2] tiles <without [Napoleon bonus]>",
         "[+25]% Strength bonus for [Military] units within [2] tiles <with [Napoleon bonus]>",
-        "Can instantly construct a [Citadel] improvement <by consuming this unit>", "Unbuildable", "Uncapturable", "Cannot be purchased"],
+        "Can instantly construct a [Citadel] improvement <by consuming this unit>", 
+	"Great Person - [War]","Unbuildable", "Uncapturable", "Cannot be purchased"
+	],
 	"movement": 2
 	},
 {
@@ -85,23 +87,6 @@
         "Can instantly construct a [Theattre] improvement <by consuming this unit> <with [Elizabeth bonus]>",
         "Can instantly construct a [Landmark] improvement <by consuming this unit> <without [Elizabeth bonus]>",
 	"Great Person - [Happiness]", "Unbuildable", "Uncapturable"],
-	"movement": 2
-	},
-{
-	"name": "Worker",
-	"unitType": "Civilian",
-	"movement": 2,
-	"uniques": ["Can build [Land] improvements on tiles", 
-        "Can instantly construct a [Fort] improvement <by consuming this unit> <with [Churchill bonus]>"],
-	"cost": 70
-	},
-{
-	"name": "Great Engineer",
-	"unitType": "Civilian",
-	"uniques": ["Can speed up construction of a building",
-        "Can instantly construct a [Manufactory] improvement <by consuming this unit> <without [Churchill bonus]>",
-        "Can instantly construct a [Manufactory] improvement <[1] times> <with [Churchill bonus]>",
-        "Great Person - [Production]", "Unbuildable", "Uncapturable"],
 	"movement": 2
 	},
 ]
