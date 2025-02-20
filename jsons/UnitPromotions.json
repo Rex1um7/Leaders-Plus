@@ -43,6 +43,13 @@
   "name": "Hannibal bonus",
   "uniques": ["Double movement in [Land] <with [1] to [6] neighboring [Mountain] tiles>", "Will not be displayed in Civilopedia"]
 },
+  {
+    "name": "Churchill bonus",
+    "uniques": [
+          "Can instantly construct a [Manufactory] improvement <[1] times> for [Great Engineer] units>",
+          "Can instantly construct a [Fort] improvement <by consuming this unit> <with [Churchill bonus]> for [Worker] units>",   
+    ]
+  }
 {
   "name": "Ix Wan Chak Ajaw bonus",
   "uniques": ["[+10]% Strength", "[+15]% Strength <when fighting in [Land] tiles> <with [1] to [6] neighboring [Luxury resource] tiles>",]
