@@ -60,7 +60,7 @@
 },
 {
   "name": "Polynesia bonus",
-  "uniques": ["Defense bonus when embarked", "May attack when embarked", "Will not be displayed in Civilopedia"]
+  "uniques": ["[+100]% Strength <when [Embarked]>", "May attack when embarked", "Will not be displayed in Civilopedia"]
 },
 {
   "name": "Mehmed II bonus",
@@ -100,8 +100,10 @@
 },
 {
   "name": "Caesar bonus",
-  "uniques": ["Will not be displayed in Civilopedia", "This Unit gains [30] XP <upon conquering a city>",
-  "This Unit gains [3] XP <upon defeating a [Military] unit>"]
+  "uniques": ["Will not be displayed in Civilopedia", 
+    "[This Unit] gains [30] XP <upon conquering a city>",
+  "[This Unit] gains [3] XP <upon defeating a [Military] unit>"
+  ]
 },
 {
   "name": "Karaindash bonus",
