@@ -413,8 +413,8 @@
 	"name": "Barracks",
 	"hurryCostModifier": 25,
 	"maintenance": 1,
-	"uniques": ["New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured",
-        "New [Military] units start with [10] Experience [in this city] <with [Germany bonus]>"],
+	"uniques": ["New [Military] units start with [15] XP [in this city]", "Destroyed when the city is captured",
+        "New [Military] units start with [10] XP [in this city] <with [Germany bonus]>"],
 	"requiredTech": "Bronze Working"
 	},
 {
@@ -422,8 +422,8 @@
 	"hurryCostModifier": 25,
 	"maintenance": 1,
 	"requiredBuilding": "Barracks",
-	"uniques": ["New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured",
-        "New [Military] units start with [10] Experience [in this city] <with [Germany bonus]>"],
+	"uniques": ["New [Military] units start with [15] XP [in this city]", "Destroyed when the city is captured",
+        "New [Military] units start with [10] XP [in this city] <with [Germany bonus]>"],
 	"requiredTech": "Steel"
 	},
 {
@@ -431,8 +431,8 @@
 	"hurryCostModifier": 0,
 	"maintenance": 1,
 	"requiredBuilding": "Armory",
-	"uniques": ["New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured",
-        "New [Military] units start with [10] Experience [in this city] <with [Germany bonus]>"],
+	"uniques": ["New [Military] units start with [15] XP [in this city]", "Destroyed when the city is captured",
+        "New [Military] units start with [10] XP [in this city] <with [Germany bonus]>"],
 	"requiredTech": "Military Science"
 	},
 {
