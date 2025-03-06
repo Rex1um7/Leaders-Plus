@@ -59,6 +59,28 @@
   "name": "Ix Wan Chak Ajaw bonus",
   "uniques": ["[+10]% Strength", "[+15]% Strength <when fighting in [Land] tiles> <with [1] to [6] neighboring [Luxury resource] tiles>",]
 },
+  // Great Prophet
+  {
+  "name": "Siam bonus",
+  "uniques": ["Can instantly construct a [Siamese Holy site] improvement <by consuming this unit> <if it hasn't used other actions yet>",]
+},
+  {
+  "name": "Abu Bakr bonus",
+  "uniques": ["Can instantly construct a [Holy site] improvement <[1] times>",]
+},
+  // Great General
+  {
+  "name": "Napoleon bonus",
+  "uniques": ["[+25]% Strength bonus for [Military] units within [2] tiles",]
+},
+  {
+  "name": "Themistocles bonus",
+  "uniques": [
+    "[+30]% Strength bonus for [{Water} {Military}] units within [2] tiles",
+        "[+2] Movement <in [Water] tiles>", 
+	"[+1] Sight <in [Water] tiles>",
+  ]
+},
 {
   "name": "Persia bonus",
   "uniques": ["Empire enters a [1]-turn Golden Age <upon defeating a [Military] unit>", "Will not be displayed in Civilopedia"]
