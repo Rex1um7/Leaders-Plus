@@ -12,7 +12,7 @@
 {
 		"name": "Germany bonus",
 		"resourceType": "Bonus",
-		"uniques": [ ]
+		"uniques": ["Will not be displayed in Civilopedia"]
 	},
 {
 		"name": "Byzantium bonus",
